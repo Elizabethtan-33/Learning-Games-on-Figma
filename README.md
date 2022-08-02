@@ -3,6 +3,10 @@
 
 Please feel free to duplicate the Figma file. This is my way of paying it forward.
 
-• _When to use:_ Typically played casually during team sync-ups or more intensely during learning weeks. I find that it makes learning more interactive, and teaching less stressful! <br>
+**When to use:**
 
-• _Objective:_ Meant to help engineers (mostly) and PMs get familiar with using Figma, and help them better understand the designer's workspace. Other unintended outcomes is that you get to know your teammates better too! I like to bake in social elements to the games.
+Typically played casually during team sync-ups or more intensely during learning weeks. I find that it makes learning more interactive, and teaching less stressful! <br>
+
+**Objective: **
+
+Meant to help engineers (mostly) and PMs get familiar with using Figma, and help them better understand the designer's workspace. Other unintended outcomes is that you get to know your teammates better too! I like to bake in social elements to the games.
