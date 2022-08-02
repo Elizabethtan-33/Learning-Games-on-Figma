@@ -2,7 +2,7 @@
 **Games I designed to make learning Figma fun &amp; accessible for cross functional teams.** I take inspiration from Twitter, and morphed it according to the needs and knowledge gap of my team. 
 
 Please feel free to duplicate the Figma file. This is my way of paying it forward.
-
+<br>
 
 **When to use:**
 Typically played casually during team sync-ups or more intensely during learning weeks. I find that it makes learning more interactive, and teaching less stressful! <br>
