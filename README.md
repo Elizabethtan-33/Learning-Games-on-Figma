@@ -1,5 +1,5 @@
 # Learning-Games-on-Figma
-**Games I designed to make learning Figma fun &amp; accessible for cross functional teams.** I take inspiration from Twitter, and morphed it according to the needs and knowledge gap of my team. 
+**Games I designed to make learning Figma fun &amp; accessible for cross-functional teams, and amongst designers.** I take inspiration from Twitter, and morphed it according to the needs and knowledge gap of my team. 
 
 Please feel free to duplicate the Figma file. This is my way of paying it forward.
 <br>
